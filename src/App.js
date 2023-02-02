@@ -6,7 +6,7 @@ function App() {
    console.log(a);
 
    function onsubmit(e,dt){
-    console.log("hello git bhai")
+    console.log(" hello git bhai.")
     console.log(a);
     console.log(dt,e);
     console.log("Hello this is my minor change");
